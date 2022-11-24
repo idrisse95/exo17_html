@@ -2,6 +2,6 @@
     display: flex;
 }
 div{
-    display: block;
-    justify-content: center;
+   
+    text-align: center;
 }
